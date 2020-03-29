@@ -1,1 +1,2 @@
-1. Complete Ruby on Rails developer
+1. Complete Ruby on Rails developer by Edward Wang
+
